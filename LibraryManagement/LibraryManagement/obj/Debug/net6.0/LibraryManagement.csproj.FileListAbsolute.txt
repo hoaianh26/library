@@ -1,0 +1,23 @@
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+E:\Code Project\C#\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+F:\Program\asm 2 1651\LibraryManagement\OneDrive_1_21-6-2023\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
