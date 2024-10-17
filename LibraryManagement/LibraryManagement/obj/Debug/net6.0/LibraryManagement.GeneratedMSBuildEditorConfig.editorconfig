@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryManagement
-build_property.ProjectDir = F:\Program\asm 2 1651\File Code\HoaiAnh_Demo\LibraryManagement\LibraryManagement\
+build_property.ProjectDir = C:\Users\DELL\library\LibraryManagement\LibraryManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Program\\asm 2 1651\\LibraryManagement\\OneDrive_1_21-6-2023\\File Code\\HoaiAnh_Demo\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\library\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
       "projectName": "LibraryManagement",
-      "projectPath": "F:\\Program\\asm 2 1651\\LibraryManagement\\OneDrive_1_21-6-2023\\File Code\\HoaiAnh_Demo\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+      "projectPath": "C:\\Users\\DELL\\library\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Program\\asm 2 1651\\LibraryManagement\\OneDrive_1_21-6-2023\\File Code\\HoaiAnh_Demo\\LibraryManagement\\LibraryManagement\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\library\\LibraryManagement\\LibraryManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
